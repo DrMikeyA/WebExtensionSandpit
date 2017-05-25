@@ -1,0 +1,12 @@
+# WebExtensionSandpit
+* Use this for learning how to create WebExtensions
+
+** Borderify 
+   
+   From the tutorial example at https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension
+
+** beastify
+
+   From the tutorial example at https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_second_WebExtension
+
+
